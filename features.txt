@@ -2,6 +2,7 @@ FEATURES
 • Domain Search
 • IP Lookup
 • Phone Lookup
+• Discord UserID Lookup
 • PC Info
 
 YET TOO ADD
