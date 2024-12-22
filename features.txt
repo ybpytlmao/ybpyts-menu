@@ -6,5 +6,6 @@ FEATURES
 • PC Info
 
 YET TOO ADD
-• TikTok Bot
+• Discord Token Info/Nuker
 • Roblox Account Nuker
+• TikTok Bot
